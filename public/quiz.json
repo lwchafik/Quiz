@@ -1,0 +1,33 @@
+{
+  "title": "Georaphic Quiz",
+  "minimum_score": 4,
+  "success_message": "Congratulations! You nailed it! 🎉 Your geography skills are top-notch!",
+  "failure_message": "Oops! Better luck next time. 🌍 Keep exploring the world, and you'll get there!",
+  "questions": [
+    {
+      "question": "What is the largest ocean on Earth ?",
+      "choices": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+      "correct_answer": "Pacific Ocean"
+    },
+    {
+      "question": "Which country is known as the Land of Rising Sun ?",
+      "choices": ["Japan", "United Kingdom", "Australia", "China"],
+      "correct_answer": "Japan"
+    },
+    {
+      "question": "Which country has the highest number of UNESCO World Heritage Sites ?",
+      "choices": ["Spain", "India", "Italy", "Egypt"],
+      "correct_answer": "Italy"
+    },
+    {
+      "question": "Which mountain range forms the natural border between France and Spain ?",
+      "choices": ["Alps", "Pyrenees", "Carpathians", "Andes"],
+      "correct_answer": "Pyrenees"
+    },
+    {
+      "question": "Which river flows through London ?",
+      "choices": ["Seine", "Thames", "Danube", "Rhine"],
+      "correct_answer": "Thames"
+    }
+  ]
+}
